@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio
 #background_style: bg-info
-background_image: url('https://github.com/prasanthicottingham/prasanthicottingham.github.io/blob/master/assets/img/backgrounds/Collage%202%20-%20church%20v4.jpg')
+background_image: url('assets/img/backgrounds/Collage%202%20-%20church%20v4.jpg')
 # Add a link to the the top menu
 menus:
   header:
