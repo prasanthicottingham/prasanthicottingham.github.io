@@ -3,7 +3,7 @@ layout: home
 header:
   title: PRASANTHI COTTINGHAM
   text: >
-    Urban Planner | Design for Humans + Environment | Urban spaces for mutual fulfillment of parents + caregivers
+    Urban Planner | Cities for humans + environmental integration | Urban spaces for mutual fulfillment of parents + caregivers
     label: Find Out More
     url: '#about'
 
