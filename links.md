@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio
 #background_style: bg-info
-background_image: url('"C:\Users\prasa\Dropbox\MUP\2024-2025\Spring Semester\STU1122 - Second Semester Core Studio\Assignment three\A3_FinalBoards1122_Summer on Squire_ Final Folder\Links\Collage 2 - church v4.jpg"')
+background_image: url('[C:\Users\prasa\Dropbox\MUP\2024-2025\Spring Semester\STU1122 - Second Semester Core Studio\Assignment three\A3_FinalBoards1122_Summer on Squire_ Final Folder\Links\Collage 2 - church v4.jpg"](https://github.com/prasanthicottingham/prasanthicottingham.github.io/blob/master/assets/img/backgrounds/Collage%202%20-%20church%20v4.jpg)')
 # Add a link to the the top menu
 menus:
   header:
