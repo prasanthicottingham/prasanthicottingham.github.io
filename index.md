@@ -3,9 +3,7 @@ layout: home
 header:
   title: PRASANTHI COTTINGHAM
   text: >
-    Urban Planner | Cities for humans + environmental integration | Urban spaces for parents + caregivers
- #   label: Find Out More
- #   url: '#about'
+    Cities for humans + environmental integration | Urban spaces for parents + caregivers
 
 
 sections:
